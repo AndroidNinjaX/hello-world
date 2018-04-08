@@ -1,3 +1,4 @@
 # hello-world
 Learning Github
-New Front-End Developer. Going throught FreeCodeCamp and have my Front-End Certification. Ready to learn more.
+
+New Front End Developer. Completed FreeCodeCamp Front End Certification so far, and excited to learn more.
